@@ -31,17 +31,17 @@ Those variables are useful for logging into the project page, whose default valu
 In the pipeline configuration:
 
 1. Choose the definition of the Pipeline as "Pipeline script from SCM."
-2. Select SCM (Source Code Management) as Git, and provide the repository URL:
+2. Select SCM (Source Code Management) as Git, and provide the repository URL:<br>
    **Repository URL:** https://github.com/mntoala/jenkins_practice
-3. In the "Branch Specifier" section, ensure it is set to:
+3. In the "Branch Specifier" section, ensure it is set to:<br>
   **Branch Specifier:** */main
-4. Specify the Script Path:
+4. Specify the Script Path:<br>
   **Script Path:** jenkins/Jenkinsfile
 5. Save and run.
 ## View Allure Reports
-After the pipeline completion, access the Allure reports generated in the Jenkins workspace.
-Follow these steps diligently to streamline the Jenkins pipeline setup for a successful execution of the CI/CD process.
-Feel free to enhance or modify the project according to your needs. 
+After the pipeline completion, access the Allure reports generated in the Jenkins workspace. <br>
+Follow these steps diligently to streamline the Jenkins pipeline setup for a successful execution of the CI/CD process.<br>
+Feel free to enhance or modify the project according to your needs. <br>
 Happy testing!
 ## Contact
 Name: Marina Toala<br>
