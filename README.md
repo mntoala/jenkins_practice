@@ -13,8 +13,8 @@ This Selenium-Java-TestNG project automates the testing of the https://www.sauce
 ### Browser
 - Chrome
 ### Tests
-1. Test 1: A purchasing process is automated.
-2. Test 2: Correct operation is tested when adding or removing products.
+**1. Test 1:** A purchasing process is automated.
+**2. Test 2:** Correct operation is tested when adding or removing products.
 
 ## Environment Variable Included in a project
 Those variables are useful for logging into the project page, whose default values are:
@@ -39,9 +39,9 @@ In the pipeline configuration:
   **Script Path:** jenkins/Jenkinsfile
 5. Save and run.
 ## View Allure Reports
-After the pipeline completion, access the Allure reports generated in the Jenkins workspace. <br>
+After the pipeline completion, access the Allure reports generated in the Jenkins workspace.<br>
 Follow these steps diligently to streamline the Jenkins pipeline setup for a successful execution of the CI/CD process.<br>
-Feel free to enhance or modify the project according to your needs. <br>
+Feel free to enhance or modify the project according to your needs.<br>
 Happy testing!
 ## Contact
 Name: Marina Toala<br>
