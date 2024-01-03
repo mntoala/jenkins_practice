@@ -13,8 +13,8 @@ This Selenium-Java-TestNG project automates the testing of the https://www.sauce
 ### Browser
 - Chrome
 ### Tests
-**1. Test 1:** A purchasing process is automated.
-**2. Test 2:** Correct operation is tested when adding or removing products.
+**1. Test 1:** A purchasing process is automated.<br>
+**2. Test 2:** Correct operation is tested when adding or removing products.<br>
 
 ## Environment Variable Included in a project
 Those variables are useful for logging into the project page, whose default values are:
