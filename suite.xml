@@ -3,7 +3,7 @@
     <test name="JenskinTests">
         <classes>
             <class name="com.globant.web.tests.PurchaseProductTest" />
-
+            <class name="com.globant.web.tests.RemoveElementsTest" />
         </classes>
     </test>
 </suite>
